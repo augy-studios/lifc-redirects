@@ -4,6 +4,121 @@
             "source": "/",
             "destination": "https://www.littleislandfur.com/",
             "statusCode": 307
+        },
+        {
+            "source": "/photodex",
+            "destination": "https://accounts.littleislandfur.com/gallery",
+            "statusCode": 307
+        },
+        {
+            "source": "/online",
+            "destination": "https://online.littleislandfur.com",
+            "statusCode": 307
+        },
+        {
+            "source": "/join-us",
+            "destination": "https://forms.gle/7ow23ddADqDidW5i6",
+            "statusCode": 307
+        },
+        {
+            "source": "/announcements",
+            "destination": "https://t.me/littleislandfc_announcements",
+            "statusCode": 307
+        },
+        {
+            "source": "/chat",
+            "destination": "https://t.me/+TVIKTHBQ9Szc42gL",
+            "statusCode": 307
+        },
+        {
+            "source": "/bsky",
+            "destination": "https://bsky.app/profile/littleislandfur.com",
+            "statusCode": 307
+        },
+        {
+            "source": "/twitter",
+            "destination": "https://twitter.com/littleislandfc",
+            "statusCode": 307
+        },
+        {
+            "source": "/x",
+            "destination": "https://twitter.com/littleislandfc",
+            "statusCode": 307
+        },
+        {
+            "source": "/facebook",
+            "destination": "https://www.facebook.com/LittleIslandFC",
+            "statusCode": 307
+        },
+        {
+            "source": "/fb",
+            "destination": "https://www.facebook.com/LittleIslandFC",
+            "statusCode": 307
+        },
+        {
+            "source": "/instagram",
+            "destination": "https://www.instagram.com/littleislandfc/",
+            "statusCode": 307
+        },
+        {
+            "source": "/ig",
+            "destination": "https://www.instagram.com/littleislandfc/",
+            "statusCode": 307
+        },
+        {
+            "source": "/youtube",
+            "destination": "https://www.youtube.com/@littleislandfc",
+            "statusCode": 307
+        },
+        {
+            "source": "/yt",
+            "destination": "https://www.youtube.com/@littleislandfc",
+            "statusCode": 307
+        },
+        {
+            "source": "/as2024",
+            "destination": "https://www.littleislandfur.com/2024/art-scroll/",
+            "statusCode": 307
+        },
+        {
+            "source": "/goh2024",
+            "destination": "https://www.littleislandfur.com/2024/guest-of-honour/",
+            "statusCode": 307
+        },
+        {
+            "source": "/dd2024",
+            "destination": "https://www.littleislandfur.com/2024/dealers-den/",
+            "statusCode": 307
+        },
+        {
+            "source": "/login",
+            "destination": "https://accounts.littleislandfur.com/login",
+            "statusCode": 307
+        },
+        {
+            "source": "/signup",
+            "destination": "https://accounts.littleislandfur.com/signup",
+            "statusCode": 307
+        },
+        {
+            "source": "/reg2024",
+            "destination": "https://www.littleislandfur.com/2024/attendee-registration/",
+            "statusCode": 307
+        },
+        {
+            "source": "/discord",
+            "destination": "https://discord.com/invite/gRpUy68VfR",
+            "statusCode": 307
+        },
+        {
+            "source": "/personality2024",
+            "destination": "https://www.littleislandfur.com/2024/personality/",
+            "statusCode": 307
+        },
+        {
+            "source": "/feedback",
+            "destination": "https://forms.gle/pTkZAX452vTnS2hG7",
+            "statusCode": 307
         }
     ]
 }
