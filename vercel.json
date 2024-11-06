@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://www.littleislandfur.com/",
+            "statusCode": 307
+        }
+    ]
+}
