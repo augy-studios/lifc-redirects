@@ -6,6 +6,11 @@
             "statusCode": 307
         },
         {
+            "source": "/vercel.json",
+            "destination": "https://raw.githubusercontent.com/augy-studios/lifc-redirects/refs/heads/main/vercel.json",
+            "statusCode": 307
+        },
+        {
             "source": "/photodex",
             "destination": "https://accounts.littleislandfur.com/gallery",
             "statusCode": 307
