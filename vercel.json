@@ -124,6 +124,26 @@
             "source": "/feedback",
             "destination": "https://forms.gle/pTkZAX452vTnS2hG7",
             "statusCode": 307
+        },
+        {
+            "source": "/reg2025",
+            "destination": "https://www.littleislandfur.com/2025/attendee-registration/",
+            "statusCode": 307
+        },
+        {
+            "source": "/dd2025",
+            "destination": "https://www.littleislandfur.com/2025/dealers-den/",
+            "statusCode": 307
+        },
+        {
+            "source": "/goh2025",
+            "destination": "https://www.littleislandfur.com/2025/guest-of-honour",
+            "statusCode": 307
+        },
+        {
+            "source": "/as2025",
+            "destination": "https://www.littleislandfur.com/2025/art-scroll/",
+            "statusCode": 307
         }
     ]
 }
