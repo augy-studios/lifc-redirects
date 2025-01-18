@@ -116,6 +116,11 @@
             "statusCode": 307
         },
         {
+            "source": "/social",
+            "destination": "https://www.littleislandfur.com/2025/socials/",
+            "statusCode": 307
+        },
+        {
             "source": "/personality2024",
             "destination": "https://www.littleislandfur.com/2024/personality/",
             "statusCode": 307
